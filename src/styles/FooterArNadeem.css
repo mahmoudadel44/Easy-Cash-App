@@ -1,0 +1,191 @@
+.WholeFooter{
+    margin-top: 5%;
+    display: flex;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 60px;
+    text-align: right;
+    background-color: #6654A4;
+    justify-content: space-between;
+    flex-wrap: wrap 
+    
+}
+.Div1{
+    width: 25%;
+    padding-left: 0%;
+    padding-right: 0%;
+    flex-direction:column ;
+    justify-content: flex-end;
+}
+.Div2{
+    width: fit-content;
+    float: right;
+}
+.Div3{
+    width: 50%;
+}
+.logos1{
+    text-align: left;
+}
+
+.a11{font-family: 'Tajawal';
+    font-size: 20px;
+    font-weight: bold;
+    color:#FFFFFF ;
+    padding-right: 0%;
+    padding-left: 0%;
+    margin-bottom: 12px;
+    }
+.a11:hover {
+      color: #6654A4;
+    }
+
+    
+
+.a12{font-family: 'Tajawal';
+    font-size: 16px;
+    color:#FFFFFF ;
+    padding-right: 0%;
+    margin-bottom: 10px;
+    }
+.a12:hover {
+      color: #CBC2EC;
+    }
+
+    
+.a13{font-family: 'Tajawal';
+    font-size: 16px;
+    margin-bottom: 10px;
+    color:#FFFFFF;
+    line-height:2.5;
+    padding-right: 0%;
+    }
+
+.a14{
+    font-family: 'Tajawal';
+    font-size: 20px;
+    font-weight: bold;
+    color:#FFFFFF ;
+    padding-right: 5%;
+    padding-left: 0%;
+    margin-bottom: 12px;
+    }
+
+.WholeFooter1{
+    margin-top: 10%;
+    display: flex;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 30px;
+    text-align: right;
+    background-color: #6654A4;
+    justify-content: space-between;
+    flex-wrap: wrap 
+    
+}
+.a111{font-family: 'Tajawal';
+    font-size: 14px;
+    font-weight: bold;
+    color:#FFFFFF ;
+    padding-right: 0%;
+    padding-left: 0%;
+    margin-bottom: 12px;
+    }
+
+
+.a121{font-family: 'Tajawal';
+    font-size: 12px;
+    color:#FFFFFF ;
+    padding-right: 0%;
+    margin-bottom: 10px;
+    margin-bottom: 10px;
+    }
+
+.a131{font-family: 'Tajawal';
+    font-size: 16px;
+    margin-bottom: 10px;
+    color:#FFFFFF;
+    line-height:2.5;
+    padding-right: 0%;
+    }
+
+.a141{
+    font-family: 'Tajawal';
+    font-size: 20px;
+    font-weight: bold;
+    color:#FFFFFF ;
+    padding-right: 0%;
+    padding-left: 0%;
+    margin-bottom: 12px;
+    }
+.Div11{
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    width: 100%;
+}
+.Div21{
+    width: 50%;
+    justify-content: space-between;
+}
+h2{
+    font-family: Tajawal;
+    font-style: normal;
+    font-size: 16px;
+    color: white;
+    line-height:2.5;
+}
+
+.Div1111{
+    width: 33%;
+    padding-left: 0%;
+    padding-right: 0%;
+    flex-direction:column ;
+    justify-content: flex-end;
+    
+}
+
+.Div1112{
+    width: 25%;
+    padding-left: 0%;
+    padding-right: 0%;
+    flex-direction:column ;
+    justify-content: flex-end;
+    
+}
+.Div1113{
+    width: 33%;
+    padding-left: 0%;
+    padding-right: 0%;
+    flex-direction:column ;
+    justify-content: flex-end;
+    
+}
+
+
+.Div211{
+    width: 100%;
+    justify-content: space-between;
+}
+
+.a1311{font-family: 'Tajawal';
+    font-size: 14px;
+    font-weight: bold;
+    color:#FFFFFF;
+    line-height:2.5;
+    padding-right: 5%;
+    padding-bottom: 10px;
+    }
+
+    
+.a1312{font-family: 'Tajawal';
+    font-size: 13px;
+    color:#FFFFFF;
+    line-height:2.5;
+    padding-right: 5%;
+    padding-bottom: 10px;
+    }
+    .followus a,.followus a:hover{
+      color:white;
+      text-decoration: none;
+    }

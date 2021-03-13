@@ -1,0 +1,181 @@
+/* Navbar Styles */
+.items{
+  /* width: 60%; */
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+@media (max-width:576px){
+  .collapse{
+    display: flex;
+    flex-direction: column;
+  }
+  .items{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+  }
+  .line{
+display: none;
+  }
+}
+.downloads{
+  margin-top: 60px;
+}
+.Artboard{
+  margin-top: 40px;
+}
+.downloadorder{
+  margin-bottom: 60px;
+}
+.downloadwallet{
+  margin-bottom: 60px;
+}
+@media(min-width:768){
+  .publications{
+    justify-content:space-between ;
+  }
+}
+@media (max-width:768px){
+.publications{
+margin-bottom: 25px;
+}
+}
+.payWays{  
+  background-image: url("../images/home/Ellipse\ 83.png");
+  background-size: 100% 520px;
+  padding-top: 35px;
+  padding-bottom: 50px;
+}
+.downloads h4{
+  font-family: 'Tajawal';
+  font-size: 32px;
+font-Weight:500;
+line-height: 38px;
+font-style: normal;
+}
+.downloads p{
+  font-family: 'Tajawal';
+  font-size: 24px;
+font-Weight:400;
+line-height: 35px;
+font-style: normal;
+color: #656668;
+text-align: center;
+}
+.transformways{  
+  margin-top: 10%;
+  padding-right: 24% !important;
+}
+@media (max-width:576px){
+  .transformways{
+    padding-right:10% !important; 
+  }
+}
+
+.transferways h5{
+  font-family: 'Tajawal';
+  font-size: 20px;
+font-Weight:400;
+line-height: 24px;
+font-style: normal;
+color: #6654A4;
+}
+.transferways p{
+  font-family: 'Tajawal';
+  font-size: 14px;
+  font-Weight:400;
+  line-height: 24px;
+  font-style: normal;
+  color: #656668;
+  ;
+}
+
+.participationHeader{
+  font-family: 'Tajawal';
+  color: #6654A4;
+  font-size: 20px;
+  font-Weight:500;
+  line-height: 24px;
+  font-style: normal;
+}
+
+.ParticipateTitle{
+  font-family: 'Tajawal';
+  color: #6654A4;
+  font-size: 32px;
+  font-Weight:500;
+  line-height: 38px;
+  font-style: normal;
+}
+.stepsHint,.participationExplanation{
+  font-family: 'Tajawal';
+  font-size: 16px;
+  font-Weight:normal;
+  line-height: 26px;
+  font-style: normal;
+  color: #656668;
+}
+
+.Rect1{
+  background-image: url("../images/home/Rect1.png");
+  background-size: 100% 100%;
+
+}
+.Rect1Img{
+  /* width: 551px;
+height: 388.15px; */
+padding-bottom: 60px;
+}
+.slick-slider{
+  width:97%
+}
+
+.easyHeader h3{
+  font-family: 'Tajawal';
+  font-size: 40px;
+  font-Weight:500;
+  line-height: 48px;
+  font-style: normal;
+  color: #6654A4;
+}
+.easyHeader p{
+  font-family: 'Tajawal';
+  font-size: 16px;
+  font-Weight:500;
+  line-height: 30px;
+  font-style: normal;
+  color: #656668;
+}
+.easyContain{
+  width:90%;
+}
+.easyHeader a{
+  font-family: 'Tajawal';
+  text-decoration: none;
+  font-size: 16px;
+  font-Weight:500;
+  line-height: 30px;
+  font-style: normal;
+  color: #6654A4;
+}
+.easyHeader a:hover{
+text-decoration: none;
+}
+
+
+  .slick-dots li.slick-active button:before {
+    opacity: .75;
+    color: #6654A4  !important;
+}
+
+.RectImg2{
+
+
+}
+
+#easyContain1{
+  margin-right: 130px !important;
+margin-top: 150px !important;
+}
