@@ -123,7 +123,7 @@ const Home = () => {
               />
             </div>
             <div
-              className="col-md-6 col-sm-12 transformways"
+              className="col-md-7 col-sm-12 transformways"
               data-wow-duration="2s"
               data-wow-offset="200"
             >
@@ -131,7 +131,6 @@ const Home = () => {
                 <PaymentWaysCard data={item} key={index} />
               ))}
             </div>
-            <div className="col-md-2"></div>
           </div>
         </div>
       </section>
