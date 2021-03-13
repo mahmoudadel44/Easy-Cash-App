@@ -142,7 +142,7 @@ const Home = () => {
             <span className="text-center stepsHint">
               بإتباع الخطوات التالية
             </span>
-            <img src={Steps} alt="steps" width="100%" className="mt-5 mb-3" />
+            <img src={Steps} alt="steps" width="100%" className="mt-5 mb-2" />
           </div>
           <div className="row">
             {participationData.map((item, index) => (
